@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/5ec6db11-4511-4dbb-8317-779bd63b6837
+
+
+
 # 📉 Customer Churn Prediction
 
 A machine learning project that predicts whether a telecom customer is likely to churn (leave the service) based on demographics, account information, and service usage behavior. Built using Python, scikit-learn, and the Telco Customer Churn dataset.
